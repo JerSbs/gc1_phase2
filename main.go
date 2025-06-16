@@ -5,8 +5,8 @@ import (
 	"net/http"
 	"os"
 
-	"p2-graded-challenge-1-JerSbs/config"
-	"p2-graded-challenge-1-JerSbs/routes"
+	"gc1_phase2/config"
+	"gc1_phase2/routes"
 
 	"github.com/joho/godotenv"
 )

@@ -3,7 +3,7 @@ package handlers
 import (
 	"encoding/json"
 	"net/http"
-	"p2-graded-challenge-1-JerSbs/config"
+	"gc1_phase2/config"
 )
 
 func GetAllEmployees(w http.ResponseWriter, r *http.Request) {

@@ -3,8 +3,8 @@ package handlers
 import (
 	"database/sql"
 	"encoding/json"
+	"gc1_phase2/config"
 	"net/http"
-	"p2-graded-challenge-1-JerSbs/config"
 	"strconv"
 	"strings"
 )

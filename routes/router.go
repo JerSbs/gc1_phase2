@@ -2,7 +2,7 @@ package routes
 
 import (
 	"net/http"
-	"p2-graded-challenge-1-JerSbs/handlers"
+	"gc1_phase2/handlers"
 )
 
 func SetupRouter() *http.ServeMux {

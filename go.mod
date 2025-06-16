@@ -1,4 +1,4 @@
-module p2-graded-challenge-1-JerSbs
+module gc1_phase2
 
 go 1.24.3
 

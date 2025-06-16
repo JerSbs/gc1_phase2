@@ -3,9 +3,9 @@ package handlers
 import (
 	"encoding/json"
 	"fmt"
+	"gc1_phase2/config"
+	"gc1_phase2/models"
 	"net/http"
-	"p2-graded-challenge-1-JerSbs/config"
-	"p2-graded-challenge-1-JerSbs/models"
 )
 
 // CreateEmployee handles POST /employees
